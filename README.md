@@ -1,4 +1,3 @@
-# Chuwa-project-1
 
 # Chuwa Project 1 – E-commerce Platform
 
